@@ -1,6 +1,7 @@
 .jumbotron{
-  padding-top: 59px;
+  margin-top: 59px;
   padding-bottom: 0px;
+  padding-top: 0px;
 }
 .jumbotron h1{
   font-size: 3.125rem;

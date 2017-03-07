@@ -4,6 +4,7 @@ html{
 .jumbotron{
   background-image: url(../images/photos/dancers-photo.png);
   background-repeat: no-repeat;
+  background-size: cover;
   background-position: bottom;
 }
 .jumbotron .container-fluid{
