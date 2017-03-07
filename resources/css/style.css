@@ -3,10 +3,23 @@ html{
 }
 .jumbotron{
   background-image: url(../images/photos/dancers-photo.png);
+  background-repeat: no-repeat;
+  background-position: bottom;
 }
 .jumbotron .container-fluid{
   width: 45rem;
 }
 .jumbotron h1, p{
 color: #ffffff;
+}
+.btn{
+  width:auto;
+  padding: 1.25rem 3.125rem;
+  background-color: #f5a623;
+  font-family: "Open Sans";
+  font-size: 1.375rem;
+  font-weight: bold;
+  margin-bottom: 3.125rem;
+  margin-top: 5rem;
+  border-radius: 5px;
 }
