@@ -1,0 +1,10 @@
+.jumbotron{
+  background-color: white;
+  border-bottom: 10px solid #8a54ff;
+}
+.jumbotron h1{
+color: #794ae2;
+}
+.jumbotron p{
+  color: #666666;
+}
