@@ -36,12 +36,24 @@ color: #ffffff;
 }
 .section_one{
   background-image: url(../images/photos/graffiti-photo.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: bottom;
+  margin-bottom: 0px;
 }
 .section_two{
   background-image: url(../images/photos/fire-photo.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: bottom;
+  margin-bottom: 0px;
 }
 .section_three{
   background-image: url(../images/photos/jump-photo.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: bottom;
+  margin-bottom: 0px;
 }
 .home_box{
   background-color: rgba(173, 74, 226, 0.9);
@@ -67,24 +79,4 @@ color: #ffffff;
 #read_more{
   font-weight: bold;
   margin-top: 1.25rem;
-}
-footer{
-  background-color: #000000;
-  color: #ffffff;
-  height: 15rem;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-
-}
-.footer_text{
-  font-size: .875rem;
-  letter-spacing: 0.7px;
-  text-align: center;
-  height: 5rem;
-
-}
-#copy{
-  margin-top: 3rem;
-
 }
