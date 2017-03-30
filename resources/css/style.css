@@ -56,10 +56,16 @@ color: #ffffff;
   margin-bottom: 0px;
 }
 .home_box{
-  background-color: rgba(173, 74, 226, 0.9);
+
   height: 25rem;
   width: 30rem;
   color: #ffffff;
+}
+.section_one .home_box, .section_three .home_box{
+  background-color: rgba(120, 73, 225, 0.9);
+}
+.section_two .home_box{
+background-color: rgba(173, 74, 226, 0.9);
 }
 .home_box h2{
   font-size: 2.25rem;
